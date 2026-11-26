@@ -1,0 +1,52 @@
+{
+    "id": "2",
+    "title": "Fernanda Sw - Dione Jill - 08-11-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/8a56b903-7875-4d68-9eb6-3fda6bad3776.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "3",
+            "name": "Fernanda Sw",
+            "actor_image": "",
+            "movie_count": 1
+        },
+        {
+            "id": "4",
+            "name": "Dione Jill",
+            "actor_image": "",
+            "movie_count": 1
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c6no5-b.cdn.cr\/storage\/media\/8a56b903-7875-4d68-9eb6-3fda6bad3776.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/DTnRLyAODrGXD"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1",
+        "title": "Azul Morales - 09-11-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/3524295b-619b-481a-b7d5-8e94ca528d72.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "3",
+        "title": "Paola Rubiel - 07-11-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/be3ce45c-5c8a-4ac2-b99b-7a01b511cc0a.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-26T19:43:14+03:00"
+}

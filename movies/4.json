@@ -1,0 +1,52 @@
+{
+    "id": "4",
+    "title": "Andrea Castro - Carolinne Cossey - 03-11-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/ivi1.scdn.st\/thumbs\/2c005ee3-e125-4220-ab28-011f1f7333c6.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "5",
+            "name": "Andrea Castro",
+            "actor_image": "",
+            "movie_count": 1
+        },
+        {
+            "id": "6",
+            "name": "Caroline Cossey",
+            "actor_image": "",
+            "movie_count": 1
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c3vi1-b.cdn.cr\/storage\/media\/2c005ee3-e125-4220-ab28-011f1f7333c6.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/ec2kUqVbtNrwR"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "3",
+        "title": "Paola Rubiel - 07-11-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/be3ce45c-5c8a-4ac2-b99b-7a01b511cc0a.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "5",
+        "title": "Nicole Zurich - 02-11-26",
+        "poster": "https:\/\/ivi1.scdn.st\/thumbs\/19ec8403-2873-498a-abb2-3243515c5873.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-26T19:43:14+03:00"
+}
