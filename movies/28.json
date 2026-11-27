@@ -1,0 +1,46 @@
+{
+    "id": "28",
+    "title": "Bequii Alvarado - 22-08-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/b111073e-aa32-4faa-af81-b5c8f3d2cfcf.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "22",
+            "name": "Bequii Alvarado",
+            "actor_image": "",
+            "movie_count": 2
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c6no4-b.cdn.cr\/storage\/media\/b111073e-aa32-4faa-af81-b5c8f3d2cfcf.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/2WURSXB3IDTuF"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "27",
+        "title": "Carolinne Cossey - 31-08-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/ba4ba083-bded-4880-8e10-a0770ce88320.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "29",
+        "title": "Camila Henao - 14-08-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/db182a85-b069-4c5f-9afe-8a8321dfe431.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

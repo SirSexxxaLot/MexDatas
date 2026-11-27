@@ -1,0 +1,46 @@
+{
+    "id": "95",
+    "title": "Nicky Ferrari - 23-04-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/ino1.scdn.st\/thumbs\/e26f992a-ad37-4331-b89d-96d1d39ace8c.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "50",
+            "name": "Nicky Ferrari",
+            "actor_image": "",
+            "movie_count": 1
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c1no1-b.cdn.cr\/storage\/media\/e26f992a-ad37-4331-b89d-96d1d39ace8c.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/BwJtHdmItpVZa"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "94",
+        "title": "Nicole Zurich - 24-04-26",
+        "poster": "https:\/\/ino1.scdn.st\/thumbs\/9ac188a6-0077-4c3e-b5c8-76ca86763d60.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "96",
+        "title": "Michelle Dom - 21-04-26",
+        "poster": "https:\/\/ino1.scdn.st\/thumbs\/44002c2a-6e0a-49e1-80f3-bad931d46260.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:50+03:00"
+}

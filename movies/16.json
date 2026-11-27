@@ -1,0 +1,46 @@
+{
+    "id": "16",
+    "title": "Dafne - 06-10-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/027743d3-5664-4c08-a762-94e9f1677527.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "18",
+            "name": "Dafne",
+            "actor_image": "",
+            "movie_count": 1
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c6no4-b.cdn.cr\/storage\/media\/027743d3-5664-4c08-a762-94e9f1677527.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/pbBBk27pdpzVr"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "15",
+        "title": "Nicole Zurich - 12-10-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/b81b19ed-ab52-4e68-afe1-aceb703789a1.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "17",
+        "title": "Camila Henao - 01-10-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/5ffc0613-355c-4c68-8e65-3b542987de78.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

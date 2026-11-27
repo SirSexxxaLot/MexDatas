@@ -1,0 +1,46 @@
+{
+    "id": "82",
+    "title": "Anai Loves - 09-05-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/ino1.scdn.st\/thumbs\/e3c5d62b-63f3-41da-9210-a629e3a3ce85.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "40",
+            "name": "Anai Loves",
+            "actor_image": "",
+            "movie_count": 3
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c1no1-b.cdn.cr\/storage\/media\/e3c5d62b-63f3-41da-9210-a629e3a3ce85.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/S8bGoRJ542BUq"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "81",
+        "title": "Lia Tovar - 15-05-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/04cb4afc-7a8a-4134-901c-590c3041c0fb.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "83",
+        "title": "Melissa Gomez - 07-05-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/203ac297-5bc6-4714-b6b5-4f19a84b4801.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:50+03:00"
+}

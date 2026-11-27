@@ -1,0 +1,46 @@
+{
+    "id": "8",
+    "title": "Michelle Dom - 30-10-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/ivi1.scdn.st\/thumbs\/5ae8c82c-f7c8-40ed-981b-762984f0c918.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "11",
+            "name": "Michelle Dom",
+            "actor_image": "",
+            "movie_count": 5
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c3vi1-b.cdn.cr\/storage\/media\/5ae8c82c-f7c8-40ed-981b-762984f0c918.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/USTYMDgAW2O9P"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "7",
+        "title": "Luna Solari - 31-10-26",
+        "poster": "https:\/\/ivi1.scdn.st\/thumbs\/9d335345-6676-4108-a713-ec5b04974fb0.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "9",
+        "title": "Estela Osorio - 27-10-26",
+        "poster": "https:\/\/ivi1.scdn.st\/thumbs\/dd917976-6c97-4da5-9531-8a4f3ff36008.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

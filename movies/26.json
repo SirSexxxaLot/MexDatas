@@ -1,0 +1,46 @@
+{
+    "id": "26",
+    "title": "Amanda Mayahuel - 02-09-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/93665104-b463-42ef-b913-3f099948be14.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "20",
+            "name": "Amanda Mayahuel",
+            "actor_image": "",
+            "movie_count": 4
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c6no4-b.cdn.cr\/storage\/media\/93665104-b463-42ef-b913-3f099948be14.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/ydT3vPlcThn4t"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "25",
+        "title": "Michelle Aldrete - 03-09-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/6a39699d-a75c-449a-b2c8-e5d41fbfdd77.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "27",
+        "title": "Carolinne Cossey - 31-08-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/ba4ba083-bded-4880-8e10-a0770ce88320.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

@@ -1,0 +1,46 @@
+{
+    "id": "34",
+    "title": "Gabriela Veracruz - 08-08-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/2776d3c6-5653-4dcc-924f-442e0710955b.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "26",
+            "name": "Gabriela Veracruz",
+            "actor_image": "",
+            "movie_count": 1
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c4s5-b.cdn.cr\/storage\/media\/2776d3c6-5653-4dcc-924f-442e0710955b.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/qcXPKl7dJX0Hf"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "33",
+        "title": "Alejandra Palacios - 10-08-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/02fb449a-12c0-431d-b1b2-7d7bc0afa79c.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "35",
+        "title": "Camila Henao - 07-08-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/5ed5488b-1af7-4de7-83b7-7787a3ada3c9.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

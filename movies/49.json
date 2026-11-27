@@ -1,0 +1,46 @@
+{
+    "id": "49",
+    "title": "Kari Cachonda - 14-07-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/cc4e382e-6ca8-40d3-aef0-bee8d9331cf6.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "27",
+            "name": "Kari Cachonda",
+            "actor_image": "",
+            "movie_count": 2
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/pc9.scdn.st\/storage\/media\/cc4e382e-6ca8-40d3-aef0-bee8d9331cf6.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/z19O4ACUnZNen"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "48",
+        "title": "Bequii Alvarado - 18-07-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/9c47437e-9877-46ed-8dc0-aed906987e4a.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "50",
+        "title": "Gaby Veracruz - 10-07-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/b75bbf42-cf7f-4958-9cd7-3292311d512a.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

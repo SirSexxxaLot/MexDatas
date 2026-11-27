@@ -1,0 +1,46 @@
+{
+    "id": "54",
+    "title": "Michelle Aldrete - 30-06-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/ino2.scdn.st\/thumbs\/3915855a-7a9c-42ae-b330-4874f3fb80fb.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "21",
+            "name": "Michelle Aldrete",
+            "actor_image": "",
+            "movie_count": 4
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c2no2-b.cdn.cr\/storage\/media\/3915855a-7a9c-42ae-b330-4874f3fb80fb.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/QutnbNsNWZr1Y"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "53",
+        "title": "Amanda Mayahuel - 01-07-26",
+        "poster": "https:\/\/ino2.scdn.st\/thumbs\/0b417eb9-2584-421e-a84f-e59a0e884951.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "55",
+        "title": "Stefanny Star - 27-06-26 4k",
+        "poster": "https:\/\/ino2.scdn.st\/thumbs\/657230d0-efcf-47ca-9601-3dfb804554fd.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

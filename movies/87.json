@@ -1,0 +1,46 @@
+{
+    "id": "87",
+    "title": "Emily Thorne - 01-05-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/d32fc812-bb80-48c7-b65c-9713fdb36568.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "32",
+            "name": "Emily Thorne",
+            "actor_image": "",
+            "movie_count": 2
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/pc9.scdn.st\/storage\/media\/d32fc812-bb80-48c7-b65c-9713fdb36568.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/VCrwvq2pem4iU"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "86",
+        "title": "Lula Stocch - 02-05-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/9deddbe4-c6e9-4baf-93c6-6274eb1bb304.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "88",
+        "title": "Alejandra Palacios - 30-04-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/6c29f249-e180-4df0-a9eb-033e72b321e6.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:50+03:00"
+}

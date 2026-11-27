@@ -1,0 +1,46 @@
+{
+    "id": "46",
+    "title": "Camila Henao - 26-07-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/e4272098-995e-4276-9d00-c3551e1128c2.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "19",
+            "name": "Camila Henao",
+            "actor_image": "",
+            "movie_count": 5
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/pc9.scdn.st\/storage\/media\/e4272098-995e-4276-9d00-c3551e1128c2.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/43lbwHug52Kel"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "45",
+        "title": "Michelle Aldrete - 24-07-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/9898f1da-b96e-481b-9523-caac510c6257.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "47",
+        "title": "Paola Rubiel - 22-07-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/261a6036-dd84-4e98-b3d8-371c02ac2647.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

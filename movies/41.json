@@ -1,0 +1,46 @@
+{
+    "id": "41",
+    "title": "Silvia Santez - 28-07-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/fa601bbb-6593-4a26-9ac2-71feb3d63857.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "28",
+            "name": "Silvia Santez",
+            "actor_image": "",
+            "movie_count": 3
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c4s5-b.cdn.cr\/storage\/media\/fa601bbb-6593-4a26-9ac2-71feb3d63857.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/7kZ5ygtcazxdw"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "40",
+        "title": "Kari Cachonda - 29-07-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/e577d694-5a84-4fa6-8fb4-97bac63aacfe.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "42",
+        "title": "Nicole Zurich - 27-07-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/0b268b8e-a6d7-41b8-92aa-e20315823663.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

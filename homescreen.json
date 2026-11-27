@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-26T19:43:14+03:00",
+    "last_updated": "2026-11-27T13:09:50+03:00",
     "recommended_movies": [],
     "last_uploaded": [
         {
@@ -26,6 +26,31 @@
             "id": "5",
             "title": "Nicole Zurich - 02-11-26",
             "poster": "https:\/\/ivi1.scdn.st\/thumbs\/19ec8403-2873-498a-abb2-3243515c5873.mp4_grid.png"
+        },
+        {
+            "id": "6",
+            "title": "Keila Bassi - 01-11-26",
+            "poster": "https:\/\/ivi1.scdn.st\/thumbs\/24709a6b-29a1-418f-adfe-de9d079b9f16.mp4_grid.png"
+        },
+        {
+            "id": "7",
+            "title": "Luna Solari - 31-10-26",
+            "poster": "https:\/\/ivi1.scdn.st\/thumbs\/9d335345-6676-4108-a713-ec5b04974fb0.mp4_grid.png"
+        },
+        {
+            "id": "8",
+            "title": "Michelle Dom - 30-10-26",
+            "poster": "https:\/\/ivi1.scdn.st\/thumbs\/5ae8c82c-f7c8-40ed-981b-762984f0c918.mp4_grid.png"
+        },
+        {
+            "id": "9",
+            "title": "Estela Osorio - 27-10-26",
+            "poster": "https:\/\/ivi1.scdn.st\/thumbs\/dd917976-6c97-4da5-9531-8a4f3ff36008.mp4_grid.png"
+        },
+        {
+            "id": "10",
+            "title": "Hilary Rhodes - 22-10-26",
+            "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/06bac4ed-7bde-41e0-8995-b9c4e9c00644.mp4_grid.png"
         }
     ],
     "home_sections": []

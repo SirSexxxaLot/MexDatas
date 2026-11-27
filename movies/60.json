@@ -1,0 +1,46 @@
+{
+    "id": "60",
+    "title": "Estela Osorio - 24-06-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/2e175235-7a6d-40a3-861c-266b9dee60e7.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "12",
+            "name": "Estela Osorio",
+            "actor_image": "",
+            "movie_count": 6
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/pc9.scdn.st\/storage\/media\/2e175235-7a6d-40a3-861c-266b9dee60e7.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/EsOVGJte4ng0i"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "59",
+        "title": "Annie Marin - 25-06-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/1c9297c9-8a73-44f7-8b67-8fdc06cfead5.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "61",
+        "title": "Ashley Sanz - 22-06-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/cb1fa95a-b326-4d18-aad9-ce541325f9e0.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:50+03:00"
+}

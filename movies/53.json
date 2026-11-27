@@ -1,0 +1,46 @@
+{
+    "id": "53",
+    "title": "Amanda Mayahuel - 01-07-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/ino2.scdn.st\/thumbs\/0b417eb9-2584-421e-a84f-e59a0e884951.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "20",
+            "name": "Amanda Mayahuel",
+            "actor_image": "",
+            "movie_count": 4
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c2no2-b.cdn.cr\/storage\/media\/0b417eb9-2584-421e-a84f-e59a0e884951.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/gDnK8y7WFhZpV"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "52",
+        "title": "Emily Thorne - 06-07-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/5a695a2c-8251-40c0-a162-908455825f44.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "54",
+        "title": "Michelle Aldrete - 30-06-26",
+        "poster": "https:\/\/ino2.scdn.st\/thumbs\/3915855a-7a9c-42ae-b330-4874f3fb80fb.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

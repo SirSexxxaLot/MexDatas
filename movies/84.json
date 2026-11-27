@@ -1,0 +1,46 @@
+{
+    "id": "84",
+    "title": "Adry Blaze - 06-05-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/7ff0cb30-4e3f-45d6-a8d7-622bf03786f3.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "46",
+            "name": "Adry Blaze",
+            "actor_image": "",
+            "movie_count": 2
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c4s5-b.cdn.cr\/storage\/media\/7ff0cb30-4e3f-45d6-a8d7-622bf03786f3.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/87szAosHvIcPN"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "83",
+        "title": "Melissa Gomez - 07-05-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/203ac297-5bc6-4714-b6b5-4f19a84b4801.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "85",
+        "title": "Nicole Zurich - 05-05-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/925730f0-fdcf-4002-bd53-8cec28d1b3fc.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:50+03:00"
+}

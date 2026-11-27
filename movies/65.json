@@ -1,0 +1,46 @@
+{
+    "id": "65",
+    "title": "Barbielu - 14-06-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/0481d889-a19e-4003-a63f-51a76e4c783d.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "38",
+            "name": "Barbielu",
+            "actor_image": "",
+            "movie_count": 2
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/pc9.scdn.st\/storage\/media\/0481d889-a19e-4003-a63f-51a76e4c783d.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/xxqY2ybqiwsmi"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "64",
+        "title": "Paola Rubiel - 15-06-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/7617e2b6-f075-4aa4-af9d-0050aa30c61f.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "66",
+        "title": "Estela Osorio - 13-06-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/9bbc8c29-be44-455c-bb3e-49d5f46abd79.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:50+03:00"
+}

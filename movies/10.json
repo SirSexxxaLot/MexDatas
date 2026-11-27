@@ -1,0 +1,46 @@
+{
+    "id": "10",
+    "title": "Hilary Rhodes - 22-10-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/06bac4ed-7bde-41e0-8995-b9c4e9c00644.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "13",
+            "name": "Hilary Rhodes",
+            "actor_image": "",
+            "movie_count": 1
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c6no4-b.cdn.cr\/storage\/media\/06bac4ed-7bde-41e0-8995-b9c4e9c00644.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/RcjcJ3UvHbatq"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "9",
+        "title": "Estela Osorio - 27-10-26",
+        "poster": "https:\/\/ivi1.scdn.st\/thumbs\/dd917976-6c97-4da5-9531-8a4f3ff36008.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "11",
+        "title": "Angela Spades - 21-10-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/49e9a5f6-dfc0-445d-91b4-d96e234b3830.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

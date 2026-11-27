@@ -1,0 +1,46 @@
+{
+    "id": "17",
+    "title": "Camila Henao - 01-10-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/5ffc0613-355c-4c68-8e65-3b542987de78.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "19",
+            "name": "Camila Henao",
+            "actor_image": "",
+            "movie_count": 5
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c6no4-b.cdn.cr\/storage\/media\/5ffc0613-355c-4c68-8e65-3b542987de78.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/1bHhEuJsUK7aZ"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "16",
+        "title": "Dafne - 06-10-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/027743d3-5664-4c08-a762-94e9f1677527.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "18",
+        "title": "Andrea Castro - 25-09-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/39a5f8e4-2145-477c-9973-441755a7209f.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

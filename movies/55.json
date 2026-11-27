@@ -1,0 +1,46 @@
+{
+    "id": "55",
+    "title": "Stefanny Star - 27-06-26 4k",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/ino2.scdn.st\/thumbs\/657230d0-efcf-47ca-9601-3dfb804554fd.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "33",
+            "name": "Stefanny Star",
+            "actor_image": "",
+            "movie_count": 2
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c2no2-b.cdn.cr\/storage\/media\/657230d0-efcf-47ca-9601-3dfb804554fd.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/chsj4FRN1ddDg"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "54",
+        "title": "Michelle Aldrete - 30-06-26",
+        "poster": "https:\/\/ino2.scdn.st\/thumbs\/3915855a-7a9c-42ae-b330-4874f3fb80fb.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "56",
+        "title": "Stefanny Star - 27-06-26",
+        "poster": "https:\/\/ino2.scdn.st\/thumbs\/971480ed-7f1e-4b57-b1e4-f830dd673f4c.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

@@ -1,0 +1,46 @@
+{
+    "id": "88",
+    "title": "Alejandra Palacios - 30-04-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/6c29f249-e180-4df0-a9eb-033e72b321e6.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "25",
+            "name": "Alejandra Palacios",
+            "actor_image": "",
+            "movie_count": 2
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/pc9.scdn.st\/storage\/media\/6c29f249-e180-4df0-a9eb-033e72b321e6.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/EeUqT4uRUj6EN"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "87",
+        "title": "Emily Thorne - 01-05-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/d32fc812-bb80-48c7-b65c-9713fdb36568.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "89",
+        "title": "Vanessa Teen - 29-04-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/99b8e002-f0ab-476a-949b-fe13aadf5a12.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:50+03:00"
+}

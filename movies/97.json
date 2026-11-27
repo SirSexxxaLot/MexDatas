@@ -1,0 +1,46 @@
+{
+    "id": "97",
+    "title": "Anai Loves - 19-04-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/19920930-1559-45f7-91ca-6b31515a1263.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "40",
+            "name": "Anai Loves",
+            "actor_image": "",
+            "movie_count": 3
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c4s5-b.cdn.cr\/storage\/media\/19920930-1559-45f7-91ca-6b31515a1263.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/JcLrB3Daue2bw"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "96",
+        "title": "Michelle Dom - 21-04-26",
+        "poster": "https:\/\/ino1.scdn.st\/thumbs\/44002c2a-6e0a-49e1-80f3-bad931d46260.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "98",
+        "title": "Nicole Zurich - 17-04-26",
+        "poster": "https:\/\/ino1.scdn.st\/thumbs\/9d2d7835-9ca5-4bd4-8bd3-907b921e99b6.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:50+03:00"
+}

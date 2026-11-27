@@ -1,0 +1,46 @@
+{
+    "id": "39",
+    "title": "Michelle Dom - 30-07-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/b29766c0-059b-459e-977e-2c9b26960e79.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "11",
+            "name": "Michelle Dom",
+            "actor_image": "",
+            "movie_count": 5
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/pc9.scdn.st\/storage\/media\/b29766c0-059b-459e-977e-2c9b26960e79.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/1z79E2b9QCMpq"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "38",
+        "title": "Estela Osorio - 31-07-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/7c77cb0a-41fb-4049-9351-021ffb1bbdb7.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "40",
+        "title": "Kari Cachonda - 29-07-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/e577d694-5a84-4fa6-8fb4-97bac63aacfe.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

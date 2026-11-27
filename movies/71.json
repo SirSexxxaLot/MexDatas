@@ -1,0 +1,46 @@
+{
+    "id": "71",
+    "title": "Paola Rubiel - 05-06-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/cb5aa489-fa01-42e9-9be9-a0154647ef98.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Paola Rubiel",
+            "actor_image": "",
+            "movie_count": 4
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/pc9.scdn.st\/storage\/media\/cb5aa489-fa01-42e9-9be9-a0154647ef98.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/zueNAFExx64Zu"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "70",
+        "title": "Melissa Gomez - 06-06-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/6354f430-0b24-4a3f-98da-c5747894e6f6.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "72",
+        "title": "Anai Loves - 04-06-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/0e7a4133-b8d9-468b-b595-3c0f94948d61.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:50+03:00"
+}

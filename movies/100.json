@@ -1,0 +1,41 @@
+{
+    "id": "100",
+    "title": "Ashley Sanz - 14-04-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/ino1.scdn.st\/thumbs\/a566934c-205e-4a58-a93a-125aefb3572e.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "36",
+            "name": "Ashley Sanz",
+            "actor_image": "",
+            "movie_count": 2
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c1no1-b.cdn.cr\/storage\/media\/a566934c-205e-4a58-a93a-125aefb3572e.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/0InEEsPbB9Gii"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "99",
+        "title": "Elizabeth Marquez - 15-04-26",
+        "poster": "https:\/\/ino1.scdn.st\/thumbs\/7bffc18f-c888-4129-9844-107b4e741ec9.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:50+03:00"
+}

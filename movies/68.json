@@ -1,0 +1,46 @@
+{
+    "id": "68",
+    "title": "Lula Stocch - 08-06-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/e1a10c67-11f6-448c-81df-3da3cfc8f5f4.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "39",
+            "name": "Lula Stocch",
+            "actor_image": "",
+            "movie_count": 2
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/pc9.scdn.st\/storage\/media\/e1a10c67-11f6-448c-81df-3da3cfc8f5f4.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/GFkNd28kcw2sH"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "67",
+        "title": "Michelle Dom - 09-06-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/028969f8-7d82-4a24-b0f9-c2f13c165876.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "69",
+        "title": "Stefanny Star - 07-06-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/48a853d9-237c-42c5-9212-1e8c86a76cdb.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:50+03:00"
+}

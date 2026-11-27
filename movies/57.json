@@ -1,0 +1,46 @@
+{
+    "id": "57",
+    "title": "Melany Latina - 27-06-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/ino2.scdn.st\/thumbs\/a5df67c4-046f-4213-8fb3-104bc4087bd8.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "16",
+            "name": "Melany Latina",
+            "actor_image": "",
+            "movie_count": 3
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c2no2-b.cdn.cr\/storage\/media\/a5df67c4-046f-4213-8fb3-104bc4087bd8.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/p4PPzN0kdkMQj"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "56",
+        "title": "Stefanny Star - 27-06-26",
+        "poster": "https:\/\/ino2.scdn.st\/thumbs\/971480ed-7f1e-4b57-b1e4-f830dd673f4c.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "58",
+        "title": "Harley Rosembush - 26-06-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/9733585a-6cc1-43a1-a96a-261d2d3a619c.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

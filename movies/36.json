@@ -1,0 +1,46 @@
+{
+    "id": "36",
+    "title": "Michelle Aldrete - 05-08-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/b1cb6e71-98b0-4026-a466-90a2ae959d3e.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "21",
+            "name": "Michelle Aldrete",
+            "actor_image": "",
+            "movie_count": 4
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/pc9.scdn.st\/storage\/media\/b1cb6e71-98b0-4026-a466-90a2ae959d3e.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/qqEkEgAc0upfz"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "35",
+        "title": "Camila Henao - 07-08-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/5ed5488b-1af7-4de7-83b7-7787a3ada3c9.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "37",
+        "title": "Melany Latina - 04-08-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/f5de3837-259a-4816-9212-4e4c04c16748.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

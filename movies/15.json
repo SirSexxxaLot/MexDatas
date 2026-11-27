@@ -1,0 +1,46 @@
+{
+    "id": "15",
+    "title": "Nicole Zurich - 12-10-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/b81b19ed-ab52-4e68-afe1-aceb703789a1.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "7",
+            "name": "Nicole Zurich",
+            "actor_image": "",
+            "movie_count": 9
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c6no4-b.cdn.cr\/storage\/media\/b81b19ed-ab52-4e68-afe1-aceb703789a1.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/HX5IK7wCYQ0gb"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "14",
+        "title": "Mariana Sandoval - 18-10-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/797dc134-1d10-4eb7-9d1d-9eeb90bb34ac.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "16",
+        "title": "Dafne - 06-10-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/027743d3-5664-4c08-a762-94e9f1677527.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

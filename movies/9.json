@@ -1,0 +1,46 @@
+{
+    "id": "9",
+    "title": "Estela Osorio - 27-10-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/ivi1.scdn.st\/thumbs\/dd917976-6c97-4da5-9531-8a4f3ff36008.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "12",
+            "name": "Estela Osorio",
+            "actor_image": "",
+            "movie_count": 6
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c3vi1-b.cdn.cr\/storage\/media\/dd917976-6c97-4da5-9531-8a4f3ff36008.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/mI9rzf5SoTWHc"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "8",
+        "title": "Michelle Dom - 30-10-26",
+        "poster": "https:\/\/ivi1.scdn.st\/thumbs\/5ae8c82c-f7c8-40ed-981b-762984f0c918.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "10",
+        "title": "Hilary Rhodes - 22-10-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/06bac4ed-7bde-41e0-8995-b9c4e9c00644.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}

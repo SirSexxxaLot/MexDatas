@@ -1,0 +1,46 @@
+{
+    "id": "21",
+    "title": "Camila Henao - 16-09-26",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bunkr Otomatik Bot İçeriği",
+    "hide_description": false,
+    "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/e379e36e-bfee-4e61-8f27-53a5afd4b338.mp4_grid.png",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [],
+    "actors": [
+        {
+            "id": "19",
+            "name": "Camila Henao",
+            "actor_image": "",
+            "movie_count": 5
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bunkr Direct MP4",
+            "type": "mp4",
+            "url": "https:\/\/c6no4-b.cdn.cr\/storage\/media\/e379e36e-bfee-4e61-8f27-53a5afd4b338.mp4"
+        },
+        {
+            "name": "Bunkr Embed Server",
+            "type": "embed",
+            "url": "https:\/\/bunkr.cr\/e\/KHf6VcWc7b9OO"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "20",
+        "title": "Keila Bassi - 17-09-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/3b08f106-2bee-4503-b1f1-b5c14d44d0c8.mp4_grid.png"
+    },
+    "next_movie_data": {
+        "id": "22",
+        "title": "Amanda Mayahuel - 13-09-26",
+        "poster": "https:\/\/static.scdn.st\/027e12ae-683b-4e42-950f-2b3f12448931\/thumbs\/99622e6e-8b94-4bce-be1b-a64c2d07e59e.mp4_grid.png"
+    },
+    "subtitles": [],
+    "last_updated": "2026-11-27T13:09:49+03:00"
+}
